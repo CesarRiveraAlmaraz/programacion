@@ -1,2 +1,2 @@
-# programacion
-para programacio
+# practica 1
+para practica 1
